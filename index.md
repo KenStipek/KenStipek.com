@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+### Are you looking for an experienced React engineer?
 
-You can use the [editor on GitHub](https://github.com/KenStipek/kenstipek.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+With over ten years of development experience, three with React, I bring a level of knowledge that allows me to develop, architect, and train others in the creation of highly scalable web applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My services include:
+- React and React Native Development
+- Serverless Infrastructure
+- Web API Design and Creation
+- Development of Real Time Web Apps, using WebSockets and WebRTC
+- Documentation, Automated Testing, and Training
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KenStipek/kenstipek.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I will make your project a success! [Please contact me](https://goo.gl/upSY9p) to get started.

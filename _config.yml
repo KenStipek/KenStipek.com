@@ -1,6 +1,10 @@
-title: Ken Stipek Technology Consulting
-description: Specializing in Serverless Architecture, WebRTC, and React Development.
+title: Ken Stipek Consulting
+description: Specializing in Serverless Architecture, WebRTC, and React Training and Development.
 show_downloads: false
-google_analytics:
+google_analytics: UA-59804004-2
 
 theme: jekyll-theme-slate
+
+github:
+  repository_url: https://github.com/KenStipek
+  is_project_page: false
